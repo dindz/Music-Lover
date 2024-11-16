@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>Musiclover</h1>
-    <p>An Android application for seamless music streaming</p>
+    <h1>Music Lover</h1>
+    <p>Seamlessly stream music from YouTube Music without ads. Play the song you once, and you can listen to it again without internet.</p>
 </div>
 
 ---
@@ -55,9 +55,11 @@ align="center">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/ht
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python
   script that discovers hidden YouTube API clients. Just a research project.
 - [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic,
-  for Ionic apps and web apps everywhere.
-- [**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the
-  app's logo uses a music note icon.
+for Ionic apps and web apps everywhere.
+<!-- - [**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the
+  app's logo uses a music note icon. -->
+- [**ViMusic**](https://github.com/vfsfitvnm/ViMusic):
+  Original code is from this archived repository.
 
 ## Disclaimer
 
