@@ -91,6 +91,22 @@ android {
         @Suppress("UnstableApiUsage")
         generateLocaleConfig = true
     }
+
+    applicationVariants.all {
+        val variant = this
+        outputs.all {
+            val output = this
+            val buildType = variant.buildType.name
+            val versionName = variant.versionName.replace("-DEBUG", "").replace("-RELEASE", "").replace("-NIGHTLY", "")
+
+            (output as com.android.build.gradle.internal.api.BaseVariantOutputImpl).outputFileName = when (buildType) {
+                "release" -> "Music Lover_v${versionName}.apk"
+                "debug" -> "Music Lover_v${versionName}_debug.apk"
+                "nightly" -> "Music Lover_v${versionName}_nightly.apk"
+                else -> output.outputFileName
+            }
+        }
+    }
 }
 
 kotlin {
