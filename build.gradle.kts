@@ -19,7 +19,7 @@ val clean by tasks.registering(Delete::class) {
 
 allprojects {
     group = "com.dindz"
-    version = "1.1.0"
+    version = "1.1.1"
 
     apply(plugin = "io.gitlab.arturbosch.detekt")
 

@@ -38,17 +38,17 @@
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub"
 height="80"
-align="center">](https://github.com/dindz/Music-Lover/releases)
+align="center">](https://github.com/dindz/Music-Lover/releases/tag/Latest)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
 alt="Get it on F-Droid"
 height="80"
-align="center">](https://objects.githubusercontent.com/github-production-release-asset-2e65be/889347216/7cd95c7c-3085-4abc-a61c-def557660c60?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T114858Z&X-Amz-Expires=300&X-Amz-Signature=c0ce56752a55b2f494d70c4ee03a1da4287ce97fd3e8449777095a3da955ef54&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DMusic.Lover_v1.1.0.apk&response-content-type=application%2Fvnd.android.package-archive)
+align="center">](https://github.com/dindz/Music-Lover/releases/tag/Latest)
 
 [<img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png"
 alt="Get it on Obtainium"
 height="54"
-align="center">](https://github.com/dindz/Music-Lover/releases/latest)
+align="center">](https://github.com/dindz/Music-Lover/releases/tag/Latest)
 
 ## Acknowledgments
 
